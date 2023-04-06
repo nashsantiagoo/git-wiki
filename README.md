@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
