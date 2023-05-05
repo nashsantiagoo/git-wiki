@@ -1,1 +1,1 @@
-Fix IS_PYTHON_3_12 bug (#9258)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
