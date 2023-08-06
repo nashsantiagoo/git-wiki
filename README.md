@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+Add docstrings to new HUB functions (#7576)
