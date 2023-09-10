@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+Conda cv2 ImportError libEGL.so.1 fix (#9255)
