@@ -1,1 +1,1 @@
-Add TF SavedModel Docs Integrations Page (#9162)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
