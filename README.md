@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Add C++ Classify inference example (#6868)
