@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Updated SQL Query Plot Code (#8120)
