@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+OBB: Fix when training on zip data (#8680)
