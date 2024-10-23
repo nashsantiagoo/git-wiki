@@ -1,1 +1,1 @@
-Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
