@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
